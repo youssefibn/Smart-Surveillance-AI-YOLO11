@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environnement virtuel
+env/
+venv/
+.conda/
+
+# Fichiers lourds ou temporaires
+yolo11n.pt
+captures/
+activity_log.csv
